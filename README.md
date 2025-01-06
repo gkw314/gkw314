@@ -1,5 +1,6 @@
 <div align="center">
-   <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=120&text=근우's%20Code%20Farm&animation=fadeIn&fontColor=9edb1a&fontSize=60" />
+   <!-- 헤더 -->
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=0A9ED4&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=40&fontColor=ffffff" />
 </div>
 
 ---
@@ -38,4 +39,14 @@
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkw314&layout=compact&hide=javascript,css,scss&langs_count=8" />
    <img src="https://github-readme-stats.vercel.app/api?username=gkw314&show_icons=true" />
+   <br><br>
+
+   [![GitHub Streak](https://streak-stats.demolab.com?user=gkw314&theme=blood-dark&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+</div>
+
+---
+
+<div align="center">
+   <!-- 푸터 -->
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=0A9ED4&height=200&section=footer" />
 </div>
