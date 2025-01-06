@@ -1,5 +1,5 @@
 <div align= "center">
-   <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=120&text=Farmer's%20Code%20Farm&animation=fadeIn&fontColor=9edb1a&fontSize=60" />
+   <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=120&text=근우's%20Code%20Farm&animation=fadeIn&fontColor=9edb1a&fontSize=60" />
    </div>
    <div style="text-align: left;"> 
    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
@@ -11,17 +11,19 @@
          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
          <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+      <br>
          <img src="<https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white>">
          <img src="<https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white>">
          <img src="<https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white>">
          <img src="<https://img.shields.io/badge/Amazon> S3-569A31?&style=for-the-badge&logo=Amazon S3&logoColor=white">
          <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+         <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+      <br>
          <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
       	<img src="https://img.shields.io/badge/flask-%23000000.svg?&style=for-the-badge&logo=flask&logoColor=white" />
-      <img src="https://img.shields.io/badge/fastapi-%23009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white" />
-         </div>
+         <img src="https://img.shields.io/badge/fastapi-%23009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white" />
+         <img src="https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white" />
+   </div>
    </div>
     <div style="text-align: left;">
    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
